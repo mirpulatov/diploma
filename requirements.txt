@@ -1,0 +1,8 @@
+ipython
+jupyter
+pcse
+seaborn
+matplotlib
+pandas
+prophet
+scikit-learn
